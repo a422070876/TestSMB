@@ -38,7 +38,7 @@ import jcifs.smb.SmbSession;
 
 public class MainActivity extends AppCompatActivity {
     private String username = "admin";
-    private String password = "Liusi123";
+    private String password = "xxxxxx";
 
     private List<SmbFile> mainList = new ArrayList<>();
     private ListAdapter listAdapter;
